@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Florin Kolb!</h1>
-<h2 align="center">Founder of Alaxus Development ·  Owner of Craftportal</h2>
+<h3 align="center">Founder of Alaxus Development ·  Owner of Craftportal</h3>
 <h4 align="center">alaxus.xyz · Craftportal.net</h4>
-<h3 align="center">I am not a developer from Switzerland</h3>
 
 <br>
 
