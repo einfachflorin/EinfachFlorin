@@ -22,10 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einfachflorin&show_icons=true&locale=en" alt="einfachflorin" /></p>
 <br/>
 
-## 🔥 My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einfachflorin" alt="einfachflorin" /></p>
-<br/>
-
 ## 🔎 About Me
 - I am Streamer/Gamer
 - I am currently working on **Alaxus** and **Craftportal**
