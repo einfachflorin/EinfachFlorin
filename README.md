@@ -32,4 +32,5 @@
 ## 📝 Contact Me
 - [Discord Support](https://discord.com/users/871714118946660352)<br/>
 - [Mail Me](mailto:info@einfachflotv.xyz)<br/><br/>
+- [Whatsapp Me](https://wa.me/41774187781)<br/><br/>
 
