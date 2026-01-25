@@ -2,8 +2,8 @@
 <a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Florin Kolb!</h1>
-<h3 align="center">I am a developer from Switzerland!</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Max Mustermann!</h1>
+<h3 align="center">I am not a developer from Switzerland!</h3>
 
 <br>
 
@@ -20,6 +20,7 @@
 ## 🤔 My Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EinfachFloTV&show_icons=true&locale=en" alt="EinfachFloTV" /></p>
 <br/>
+I don't have any Stats!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## 🔥 My Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EinfachFloTV" alt="EinfachFloTV" /></p>
