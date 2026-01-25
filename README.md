@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://discord.gg/hbDuAc2AU9"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="einfachflo_tv" width="85" height="20"/></a>
-    <a href="https://github.com/einfachflotv?tab=followers"><img src="https://img.shields.io/github/followers/einfachflotv?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/einfachflotv?tab=followers"><img src="https://img.shields.io/github/followers/einfachflorin?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <br>
 <p align="center">
@@ -19,16 +19,17 @@
 <br>
 
 ## 🤔 My Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EinfachFloTV&show_icons=true&locale=en" alt="EinfachFloTV" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einfachflorin&show_icons=true&locale=en" alt="einfachflorin" /></p>
 <br/>
 
 ## 🔥 My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EinfachFloTV" alt="EinfachFloTV" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einfachflorin" alt="einfachflorin" /></p>
 <br/>
 
 ## 🔎 About Me
 - I am Streamer/Gamer
-- I am currently working on **Alaxus** and **DemonSucht**
+- I am currently working on **Alaxus** and **Craftportal**
+- I am working for **@Loopnetmedia**
 
 <br/>
 
