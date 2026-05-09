@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Florin Kolb!</h1>
-<h3 align="center">Founder of Alaxus Development ·  Owner of Craftportal</h3>
-<h4 align="center">alaxus.xyz · Craftportal.net</h4>
+<h3 align="center">Founder of Alaxus Development</h3>
+<h4 align="center">kolb.li · einfachflotv.xyz · alaxus.xyz</h4>
 
 <br>
 
 <p align="center">
     <a href="https://discord.gg/hbDuAc2AU9"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="einfachflo_tv" width="85" height="20"/></a>
-    <a href="https://github.com/einfachflotv?tab=followers"><img src="https://img.shields.io/github/followers/einfachflorin?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/einfachflorin?tab=followers"><img src="https://img.shields.io/github/followers/einfachflorin?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <br>
 <p align="center">
@@ -24,8 +24,7 @@
 
 ## 🔎 About Me
 - I am Streamer/Gamer
-- I am currently working on **Alaxus** and **Craftportal**
-- I am working for **@Loopnetmedia**
+- I am currently working on **Alaxus**
 
 <br/>
 
