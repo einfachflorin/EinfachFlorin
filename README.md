@@ -23,7 +23,7 @@
 <br/>
 
 ## 🔎 About Me
-- I am Streamer/Gamer
+- I am Developer/Streamer/Gamer
 - I am currently working on **Alaxus**
 
 <br/>
